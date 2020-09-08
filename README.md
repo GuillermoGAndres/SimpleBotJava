@@ -11,4 +11,4 @@ javac bot/App.java
 ~~~
 java bot.App
 ~~~
-
+![Gif de la App](./img/botJava.gif)

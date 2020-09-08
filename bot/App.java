@@ -16,6 +16,7 @@ public class App{
         App bot = new App();
         bot.greet("Sophia", "2020");
         bot.remindName();
+        bot.guessAge();
         bot.count();
         bot.test();
         System.out.println("Completed, have nice day!");
